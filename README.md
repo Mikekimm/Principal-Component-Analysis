@@ -2,7 +2,7 @@ Principal Component Analysis
 
 This project implements  PCA from the group and covers all the mathematical foundation and provides practical insights into dimensionality reduction techniques.
 
-Source:
+Source: https://www.kaggle.com/datasets/adilshamim8/student-performance-and-learning-style
 Data collected by a student from African Leadership University
 Author: Michael Kimani
 Github: Mikekimm
